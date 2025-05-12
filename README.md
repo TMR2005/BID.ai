@@ -44,7 +44,7 @@ Controller (Activity): Java-based Activities act as controllers, handling both t
 ### **Main Components:**
 
 1. **Activities**:
-   - 'Login' : The entry point for the app. The user enters their mobile number.
+   - `Login` : The entry point for the app. The user enters their mobile number.
    - `Dashbaord`:  It displays the welcome message and product summary.
    - `AddProductActivity`: The screen where vendors can add a new product, including name, price, category, and image.
    
