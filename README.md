@@ -67,7 +67,7 @@ Controller (Activity): Java-based Activities act as controllers, handling both t
 ### **1. User Authentication and Dashboard**
 - On app launch, we go to the login page where the user is required to enter their mobile number and can login.
 - On clicking he button, **Dashboard** is displayed, showing the vendor's **welcome message** and a summary of their products.
-- 
+  
 ### **2. Product Management**
 - **Product Addition**:
   - Vendors can add products via the **AddProductActivity**.
@@ -77,7 +77,7 @@ Controller (Activity): Java-based Activities act as controllers, handling both t
 
 ### **3. Displaying Products in GridView**
 - The products are displayed using a **GridView**.
-  - A **ProductAdapter** binds the data to the views in the grid. It retrieves product information from the Room database and displays it in each grid item.
+  - A **ProductAdapter** binds the data to the views in the grid. It retrieves product information from the static list and displays it in each grid item.
   - Each product card contains:
     - Product Image: Loaded from the URL using **Glide**.
     - Product Name, Price, Category: Displayed as text in the grid items.
