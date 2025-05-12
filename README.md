@@ -72,8 +72,8 @@ Controller (Activity): Java-based Activities act as controllers, handling both t
 - **Product Addition**:
   - Vendors can add products via the **AddProductActivity**.
   - Fields like product name, price, category, and image URL are captured.
-  - The data is stored in the local **Room Database** via the **ProductDao** interface.
-  - Once the product is added, the **ProductListFragment** updates the UI by querying the Room database to display the latest product details.
+  - The data is stored in a static list.
+  - Once the product is added, the **ProductListFragment** updates the UI by accessing the static list.
 
 ### **3. Displaying Products in GridView**
 - The products are displayed using a **GridView**.
