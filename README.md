@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Bidai** is an Android-based Agri-Commerce application designed for vendors in the agriculture sector. Vendors can add their products, manage inventories, and view their product listings through a dynamic and interactive dashboard. The app allows vendors to upload product details such as name, price, category, and image URL, all within a simple and intuitive user interface.
+**Bidai** is an Android-based Agri-Commerce application designed for vendors in the agriculture sector. Vendors can add their products and view their product listings through a dynamic and interactive dashboard. The app allows vendors to upload product details such as name, price, category, and image URL, all within a simple and intuitive user interface.
 
 This README provides a detailed explanation of the app's structure, working logic, and features.
 
