@@ -17,7 +17,7 @@ This README provides a detailed explanation of the app's structure, working logi
 6. [Setup and Installation](#setup-and-installation)
 7. [ScreenShots](#screenshots)
 8. [Challenges](#challenges)
-
+9. [What Could be Added?](#what-could-be-added)
 ---
 ## **App Architecture**
 
@@ -110,14 +110,20 @@ The .apk file has been provided, you can install it on any android device.
 ![Screenshot_20250512_121827](https://github.com/user-attachments/assets/f62fbbf8-498a-442d-83e7-6bebf41e799c)
 
 ## **Challenges**
-- Designing a User-Friendly Dashboard
+- Designing a User-Friendly Dashboard:
 Creating an intuitive dashboard with a responsive layout using GridView required careful tuning of layout dimensions and spacing.
-- Handling Expandable Views in GridView Items
+- Handling Expandable Views in GridView Items:
 Toggling the expandable section inside GridView cards dynamically while managing view recycling required careful logic to avoid flickering or incorrect view states.
-- Integrating Image Loading from URLs
+- Integrating Image Loading from URLs:
 Implementing Glide to load product images dynamically from URLs involved resolving dependency issues.
-- APK Signing and Deployment
+- APK Signing and Deployment:
 Generating a signed APK, configuring a keystore, and handling build errors was a key hurdle, especially with tools like keytool and build configuration issues.
+
+## **What Could be added?**
+- `Authentication` Implement secure login for vendors.
+- `Search and Filters` Implement filters based on category, sorting by price, etc.
+- `Backend` Implement Room database to store data locally
+- `Remove` Add an option remove a product listed by the vendor
 
 
 
