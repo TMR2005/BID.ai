@@ -117,7 +117,7 @@ Toggling the expandable section inside GridView cards dynamically while managing
 - Integrating Image Loading from URLs:
 Implementing Glide to load product images dynamically from URLs involved resolving dependency issues.
 - APK Signing and Deployment:
-Generating a signed APK, configuring a keystore, and handling build errors was a key hurdle, especially with tools like keytool and build configuration issues.
+Generating a signed APK, configuring a keystore was a key hurdle, especially with tools like keytool.
 
 ## **What Could be added?**
 - `Authentication` Implement secure login for vendors.
