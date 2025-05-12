@@ -109,11 +109,15 @@ You can run the app locally without needing to worry about anything.
    git clone https://github.com/yourusername/bidai
 
 ## **ScreenShots**
-![Screenshot_20250512_121827](https://github.com/user-attachments/assets/f62fbbf8-498a-442d-83e7-6bebf41e799c)
-![Screenshot_20250512_121745](https://github.com/user-attachments/assets/e3efa1f7-7036-4d70-bb4c-2775cd12a463)
-![Screenshot_20250512_121736](https://github.com/user-attachments/assets/442c672f-8a2c-42a6-a0de-2ddc0c4fd1c1)
-![Screenshot_20250512_121706](https://github.com/user-attachments/assets/3188aa07-453d-4b50-90b7-5b37660966dd)
 ![Screenshot_20250512_121644](https://github.com/user-attachments/assets/902262f8-6bb0-4e02-8243-c72015dd12e2)
+![Screenshot_20250512_121706](https://github.com/user-attachments/assets/3188aa07-453d-4b50-90b7-5b37660966dd)
+![Screenshot_20250512_121736](https://github.com/user-attachments/assets/442c672f-8a2c-42a6-a0de-2ddc0c4fd1c1)
+![Screenshot_20250512_121745](https://github.com/user-attachments/assets/e3efa1f7-7036-4d70-bb4c-2775cd12a463)
+![Screenshot_20250512_121827](https://github.com/user-attachments/assets/f62fbbf8-498a-442d-83e7-6bebf41e799c)
+
+
+
+
 
 
 
